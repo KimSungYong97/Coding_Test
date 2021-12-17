@@ -15,7 +15,7 @@ Screen Shot 2018-09-13 at 6.34.58 PM.png
 
 한 번에 하나의 요청만을 수행할 수 있기 때문에 각각의 작업을 요청받은 순서대로 처리하면 다음과 같이 처리 됩니다.
 
-![그림2][https://user-images.githubusercontent.com/29745280/146480938-25b3b339-4438-4383-8d96-58bbc487b78a.png]
+![그림2]{https://user-images.githubusercontent.com/29745280/146480938-25b3b339-4438-4383-8d96-58bbc487b78a.png}
 
 ##### - A: 3ms 시점에 작업 완료 (요청에서 종료까지 : 3ms)
 ##### - B: 1ms부터 대기하다가, 3ms 시점에 작업을 시작해서 12ms 시점에 작업 완료(요청에서 종료까지 : 11ms)
@@ -25,7 +25,7 @@ Screen Shot 2018-09-13 at 6.34.58 PM.png
 
 하지만 A → C → B 순서대로 처리하면
 
-Screen Shot 2018-09-13 at 6.41.42 PM.png
+![그림3]{https://user-images.githubusercontent.com/29745280/146481051-80a15229-829f-4bb4-a64a-17149edc8dcc.png}
 
 ##### - A: 3ms 시점에 작업 완료(요청에서 종료까지 : 3ms)
 ##### - C: 2ms부터 대기하다가, 3ms 시점에 작업을 시작해서 9ms 시점에 작업 완료(요청에서 종료까지 : 7ms)
