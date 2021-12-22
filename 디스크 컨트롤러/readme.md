@@ -60,3 +60,6 @@ jobs의 각 행은 하나의 작업에 대한 [작업이 요청되는 시점, �
 0ms 시점에 3ms 걸리는 작업 요청이 들어옵니다.
 1ms 시점에 9ms 걸리는 작업 요청이 들어옵니다.
 2ms 시점에 6ms 걸리는 작업 요청이 들어옵니다.
+
+#### 문제 보기
+https://programmers.co.kr/learn/courses/30/lessons/42627
