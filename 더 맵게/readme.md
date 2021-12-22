@@ -45,3 +45,6 @@ Leo가 가진 음식의 스코빌 지수를 담은 배열 scoville과 원하는 
 
 
 모든 음식의 스코빌 지수가 7 이상이 되었고 이때 섞은 횟수는 2회입니다.
+
+#### 문제 보기
+https://programmers.co.kr/learn/courses/30/lessons/42626
