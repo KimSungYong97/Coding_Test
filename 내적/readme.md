@@ -28,3 +28,6 @@
 입출력 예 #2
 
 +a와 b의 내적은 (-1)*1 + 0*0 + 1*(-1) = -2 입니다.
+
+#### 문제 보기
+https://programmers.co.kr/learn/courses/30/lessons/70128
