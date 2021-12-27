@@ -113,3 +113,5 @@ new_id에 나타날 수 있는 특수문자는 -_.~!@#$%^&*()=+[{]}:?,<>/ 로 �
 5단계 변화 없습니다.
 6단계 "abcdefghijklmn.p" → "abcdefghijklmn." → "abcdefghijklmn"
 7단계 변화 없습니다.
+
+https://programmers.co.kr/learn/courses/30/lessons/72410
